@@ -1,0 +1,28 @@
+@media only screen and (max-width: 767px) {
+	.top_socialLink {
+		float:   unset;
+		display: table;
+		margin:  0 auto;
+	}
+	
+	.txtlft {
+		text-align: center;
+	}
+	
+	.slogen, .banner_text h6 {
+		display:   none;
+		top:       17%;
+		left:      0;
+		width:     100%;
+		font-size: 25px;
+	}
+	
+	.banner_logo img {
+		position: absolute;
+		top:      68%;
+		left:     25%;
+		width:    50%;
+	}
+	
+	
+}

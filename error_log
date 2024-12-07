@@ -1,0 +1,56 @@
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: address_1 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 40
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: address_2 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 41
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: city in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 42
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: state in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 43
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: zip_5 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 44
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: zip_4 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 45
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: zip_4 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 56
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: pounds in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 64
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: ounces in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 65
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: width in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 67
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: length in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 68
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: height in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 69
+[01-Aug-2023 19:29:24 UTC] PHP Notice:  Undefined index: girth in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 70
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: Package in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 82
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 82
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 82
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: first_name in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 86
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: last_name in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 87
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: address_1 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 89
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: address_2 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 90
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: city in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 92
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: state in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 93
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: zip_5 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 94
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: zip_4 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 95
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: phone in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 96
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: pounds in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 102
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Undefined index: Package in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 114
+[01-Aug-2023 19:29:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 114
+[01-Aug-2023 19:29:26 UTC] PHP Notice:  Undefined index: address_1 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 40
+[01-Aug-2023 19:29:26 UTC] PHP Notice:  Undefined index: address_2 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 41
+[01-Aug-2023 19:29:26 UTC] PHP Notice:  Undefined index: city in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 42
+[01-Aug-2023 19:29:26 UTC] PHP Notice:  Undefined index: state in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 43
+[01-Aug-2023 19:29:26 UTC] PHP Notice:  Undefined index: zip_5 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 44
+[01-Aug-2023 19:29:26 UTC] PHP Notice:  Undefined index: zip_4 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 45
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: zip_4 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 56
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: pounds in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 64
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: ounces in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 65
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: width in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 67
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: length in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 68
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: height in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 69
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: girth in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 70
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: Package in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 82
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 82
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 82
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: first_name in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 86
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: last_name in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 87
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: address_1 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 89
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: address_2 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 90
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: city in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 92
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: state in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 93
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: zip_5 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 94
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: zip_4 in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 95
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: phone in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 96
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: pounds in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 102
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Undefined index: Package in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 114
+[01-Aug-2023 19:29:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/customerurl/public_html/eric/cak_portal/usps_process.php on line 114

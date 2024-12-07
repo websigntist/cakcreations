@@ -1,0 +1,133 @@
+.o-page-transition--fade {
+  transition: all 1s linear;
+  opacity: 1;
+}
+.is-animating .o-page-transition--fade {
+  opacity: 0;
+}
+.o-container {
+  display: block;
+  width: 1100px;
+  max-width: 100%;
+  padding: 0px 20px;
+  margin: 0 auto;
+}
+.c-header {
+  display: flex;
+  width: 100%;
+  padding: 10px 30px;
+  align-items: center;
+}
+.c-header__wrapper-logo {
+  display: block;
+}
+.c-header__logo-link {
+  display: inline-block;
+  cursor: pointer;
+}
+.c-header__logo {
+  display: block;
+  width: 200px;
+  height: auto;
+  max-width: 100%;
+}
+.c-header__menu {
+  width: calc(100% - 200px);
+}
+.c-header__menu-item {
+  padding: 4px 6px;
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+.c-header__menu-item:hover {
+  color: #f37f7f;
+}
+.c-header__menu-item.is-active {
+  color: #c70b0b;
+}
+.c-main {
+  display: block;
+  width: 100%;
+}
+.c-title-and-content {
+  display: block;
+  width: 100%;
+}
+.c-title-and-content__inner {
+  display: block;
+  width: 100%;
+}
+.c-title-and-content__title {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 40px;
+  line-height: 56px;
+  color: #000000;
+  margin-bottom: 40px;
+}
+.c-title-and-content__content {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  line-height: 28px;
+  color: #000000;
+  padding-bottom: 20px;
+}
+.c-title-and-content__content--alt {
+  padding-bottom: 58px;
+}
+.c-title-and-content__wrapper-button {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+.c-title-and-content__button {
+  display: inline-block;
+  width: auto;
+  text-align: center;
+  font-size: 18px;
+  line-height: 26px;
+  color: #f5f5f5;
+  border: 0px solid transparent;
+  background-color: #000000;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  outline: 0px solid;
+  padding: 6px 19px;
+}
+.c-title-and-content__button.is-alt {
+  color: #f5f5f5;
+  background-color: #c70b0b;
+}
+.c-footer {
+  display: block;
+  width: 100%;
+  padding: 10px 30px;
+  padding-top: 40px;
+}
+.c-footer__inner {
+  display: block;
+  width: 100%;
+  padding: 4px 6px;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+}
+.c-footer__copyright {
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  color: #c70b0b;
+  cursor: pointer;
+}
+.c-footer__copyright:hover {
+  color: #f37f7f;
+}
+.u-none {
+  display: none !important;
+}
